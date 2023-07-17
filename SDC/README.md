@@ -1,3 +1,3 @@
-#Datalab Social Data challenge
+# Datalab Social Data challenge
 
 Folder to store information about the challenge, due dates, mentorships and workshops...
