@@ -1,0 +1,196 @@
+SISTEMA,NOMBRE,LINEA,EST,CVE_EST,CVE_EOD17,TIPO,ALCALDIAS,AÑO
+STC Metro,Pantitlán,01,01,STC0101,05014,Terminal / Transbordo,Venustiano Carranza,1984
+STC Metro,Zaragoza,01,02,STC0102,05020,Intermedia,Venustiano Carranza,1969
+STC Metro,Gomez Farías,01,03,STC0103,05007,Intermedia,Venustiano Carranza,1969
+STC Metro,Boulevard Puerto Aéreo,01,04,STC0104,05003,Intermedia,Venustiano Carranza,1969
+STC Metro,Balbuena,01,05,STC0105,05001,Intermedia,Venustiano Carranza,1969
+STC Metro,Moctezuma,01,06,STC0106,05012,Intermedia,Venustiano Carranza,1969
+STC Metro,San Lázaro,01,07,STC0107,05017,Transbordo,Venustiano Carranza,1969
+STC Metro,Candelaria,01,08,STC0108,05004,Transbordo,Venustiano Carranza,1969
+STC Metro,Merced,01,09,STC0109,05011,Intermedia,Venustiano Carranza,1969
+STC Metro,Pino Suárez,01,10,STC0110,05015,Transbordo,Cuauhtémoc,1969
+STC Metro,Isabel La Católica,01,11,STC0111,05009,Intermedia,Cuauhtémoc,1969
+STC Metro,Salto del Agua,01,12,STC0112,05016,Transbordo,Cuauhtémoc,1969
+STC Metro,Balderas,01,13,STC0113,05002,Transbordo,Cuauhtémoc,1969
+STC Metro,Cuauhtémoc,01,14,STC0114,05006,Intermedia,Cuauhtémoc,1969
+STC Metro,Insurgentes,01,15,STC0115,05008,Intermedia,Cuauhtémoc,1969
+STC Metro,Sevilla,01,16,STC0116,05018,Intermedia,Cuauhtémoc,1969
+STC Metro,Chapultepec,01,17,STC0117,05005,Intermedia,Cuauhtémoc / Miguel Hidalgo,1969
+STC Metro,Juanacatlán,01,18,STC0118,05010,Intermedia,Miguel Hidalgo,1970
+STC Metro,Tacubaya,01,19,STC0119,05019,Transbordo,Miguel Hidalgo,1970
+STC Metro,Observatorio,01,20,STC0120,05013,Terminal,Álvaro Obregón,1972
+STC Metro,Cuatro Caminos,02,01,STC0201,05045,Terminal,Estado de México - Naucalpan de Juárez,1984
+STC Metro,Panteones,02,02,STC0202,05052,Intermedia,Miguel Hidalgo,1984
+STC Metro,Tacuba,02,03,STC0203,05059,Transbordo,Miguel Hidalgo,1970
+STC Metro,Cuitláhuac,02,04,STC0204,05046,Intermedia,Miguel Hidalgo,1970
+STC Metro,Popotla,02,05,STC0205,05054,Intermedia,Miguel Hidalgo,1970
+STC Metro,Colegio Militar,02,06,STC0206,05044,Intermedia,Miguel Hidalgo,1970
+STC Metro,Normal,02,07,STC0207,05051,Intermedia,Miguel Hidalgo,1970
+STC Metro,San Cosme,02,08,STC0208,05058,Intermedia,Cuauhtémoc,1970
+STC Metro,Revolución,02,09,STC0209,05056,Intermedia,Cuauhtémoc,1970
+STC Metro,Hidalgo,02,10,STC0210,05049,Transbordo,Cuauhtémoc,1970
+STC Metro,Bellas Artes,02,11,STC0211,05042,Transbordo,Cuauhtémoc,1970
+STC Metro,Allende,02,12,STC0212,05041,Intermedia,Cuauhtémoc,1970
+STC Metro,Zócalo/Tenochtitlan,02,13,STC0213,05064,Intermedia,Cuauhtémoc,1970
+STC Metro,Pino Suárez,02,14,STC0214,05053,Transbordo,Cuauhtémoc,1970
+STC Metro,San Antonio Abad,02,15,STC0215,05057,Intermedia,Cuauhtémoc,1970
+STC Metro,Chabacano,02,16,STC0216,05043,Transbordo,Cuauhtémoc,1970
+STC Metro,Viaducto,02,17,STC0217,05061,Intermedia,Benito Juárez / Iztacalco,1970
+STC Metro,Xola,02,18,STC0218,05063,Intermedia,Benito Juárez,1970
+STC Metro,Villa de Cortés,02,19,STC0219,05062,Intermedia,Benito Juárez,1970
+STC Metro,Nativitas,02,20,STC0220,05050,Intermedia,Benito Juárez,1970
+STC Metro,Portales,02,21,STC0221,05055,Intermedia,Benito Juárez,1970
+STC Metro,Ermita,02,22,STC0222,05047,Transbordo,Benito Juárez,1970
+STC Metro,General Anaya,02,23,STC0223,05048,Intermedia,Coyoacán,1970
+STC Metro,Tasqueña,02,24,STC0224,05060,Terminal,Coyoacán,1970
+STC Metro,Indios Verdes,03,01,STC0301,05076,Terminal,Gustavo A. Madero,1979
+STC Metro,Deportivo 18 de Marzo,03,02,STC0302,05069,Transbordo,Gustavo A. Madero,1979
+STC Metro,Potrero,03,03,STC0303,05082,Intermedia,Gustavo A. Madero,1979
+STC Metro,La Raza,03,04,STC0304,05078,Transbordo,Gustavo A. Madero,1978
+STC Metro,Tlatelolco,03,05,STC0305,05083,Intermedia,Cuauhtémoc,1970
+STC Metro,Guerrero,03,06,STC0306,05073,Transbordo,Cuauhtémoc,1970
+STC Metro,Hidalgo,03,07,STC0307,05074,Transbordo,Cuauhtémoc,1970
+STC Metro,Juárez,03,08,STC0308,05077,Intermedia,Cuauhtémoc,1970
+STC Metro,Balderas,03,09,STC0309,05065,Transbordo,Cuauhtémoc,1970
+STC Metro,Niños Héroes/Poder Judicial CDMX,03,10,STC0310,05080,Intermedia,Cuauhtémoc,1970
+STC Metro,Hospital General,03,11,STC0311,05075,Intermedia,Cuauhtémoc,1970
+STC Metro,Centro Médico,03,12,STC0312,05066,Transbordo,Cuauhtémoc,1980
+STC Metro,Etiopía/Plaza de la Transparencia,03,13,STC0313,05081,Intermedia,Benito Juárez,1980
+STC Metro,Eugenia,03,14,STC0314,05072,Intermedia,Benito Juárez,1980
+STC Metro,División del Norte,03,15,STC0315,05071,Intermedia,Benito Juárez,1980
+STC Metro,Zapata,03,16,STC0316,05085,Transbordo,Benito Juárez,1980
+STC Metro,Coyoacán,03,17,STC0317,05068,Intermedia,Benito Juárez,1983
+STC Metro,Viveros/Derechos Humanos,03,18,STC0318,05070,Intermedia,Álvaro Obregón / Coyoacán,1983
+STC Metro,Miguel Ángel de Quevedo,03,19,STC0319,05079,Intermedia,Coyoacán,1983
+STC Metro,Copilco,03,20,STC0320,05067,Intermedia,Coyoacán,1983
+STC Metro,Universidad,03,21,STC0321,05084,Terminal,Coyoacán,1983
+STC Metro,Santa Anita,04,01,STC0401,05094,Terminal / Transbordo,Iztacalco,1982
+STC Metro,Jamaica,04,02,STC0402,05091,Transbordo,Venustiano Carranza,1982
+STC Metro,Fray Servando,04,03,STC0403,05090,Intermedia,Venustiano Carranza,1982
+STC Metro,Candelaria,04,04,STC0404,05088,Transbordo,Venustiano Carranza,1981
+STC Metro,Morelos,04,05,STC0405,05093,Transbordo,Venustiano Carranza,1981
+STC Metro,Canal del Norte,04,06,STC0406,05087,Intermedia,Venustiano Carranza,1981
+STC Metro,Consulado,04,07,STC0407,05089,Transbordo,Gustavo A. Madero,1981
+STC Metro,Bondojito,04,08,STC0408,05086,Intermedia,Gustavo A. Madero,1981
+STC Metro,Talismán,04,09,STC0409,05095,Intermedia,Gustavo A. Madero,1981
+STC Metro,Martín Carrera,04,10,STC0410,05092,Terminal / Transbordo,Gustavo A. Madero,1981
+STC Metro,Politécnico,05,01,STC0501,05106,Terminal,Gustavo A. Madero,1982
+STC Metro,Instituto del Petróleo,05,02,STC0502,05101,Transbordo,Gustavo A. Madero,1982
+STC Metro,Autobuses del Norte,05,03,STC0503,05097,Intermedia,Gustavo A. Madero,1982
+STC Metro,La Raza,05,04,STC0504,05102,Transbordo,Gustavo A. Madero,1982
+STC Metro,Misterios,05,05,STC0505,05103,Intermedia,Gustavo A. Madero / Cuauhtémoc,1982
+STC Metro,Valle Gómez,05,06,STC0506,05108,Intermedia,Gustavo A. Madero / Venustiano Carranza,1982
+STC Metro,Consulado,05,07,STC0507,05098,Transbordo,Gustavo A. Madero / Venustiano Carranza,1981
+STC Metro,Eduardo Molina,05,08,STC0508,05099,Intermedia,Gustavo A. Madero / Venustiano Carranza,1981
+STC Metro,Aragón,05,09,STC0509,05096,Intermedia,Gustavo A. Madero / Venustiano Carranza,1981
+STC Metro,Oceanía,05,10,STC0510,05104,Transbordo,Venustiano Carranza,1981
+STC Metro,Terminal Aérea,05,11,STC0511,05107,Intermedia,Venustiano Carranza,1981
+STC Metro,Hangares,05,12,STC0512,05100,Intermedia,Venustiano Carranza,1981
+STC Metro,Pantitlán,05,13,STC0513,05105,Terminal / Transbordo,Venustiano Carranza,1981
+STC Metro,El Rosario,06,01,STC0601,05112,Terminal / Transbordo,Azcapotzalco,1983
+STC Metro,Tezozómoc,06,02,STC0602,05118,Intermedia,Azcapotzalco,1983
+STC Metro,UAM Azcapotzalco,06,03,STC0603,05110,Intermedia,Azcapotzalco,1983
+STC Metro,Ferrería/Arena Ciudad de México,06,04,STC0604,05109,Intermedia,Azcapotzalco,1983
+STC Metro,Norte 45,06,05,STC0605,05117,Intermedia,Azcapotzalco,1983
+STC Metro,Vallejo,06,06,STC0606,05119,Intermedia,Azcapotzalco,1983
+STC Metro,Instituto del Petróleo,06,07,STC0607,05113,Transbordo,Gustavo A. Madero,1983
+STC Metro,Lindavista,06,08,STC0608,05115,Intermedia,Gustavo A. Madero,1986
+STC Metro,Deportivo 18 de Marzo,06,09,STC0609,05111,Transbordo,Gustavo A. Madero,1986
+STC Metro,La Villa/Basílica,06,10,STC0610,05114,Intermedia,Gustavo A. Madero,1986
+STC Metro,Martín Carrera,06,11,STC0611,05116,Terminal / Transbordo,Gustavo A. Madero,1986
+STC Metro,El Rosario,07,01,STC0701,05125,Terminal / Transbordo,Azcapotzalco,1988
+STC Metro,Aquiles Serdán,07,02,STC0702,05120,Intermedia,Azcapotzalco,1988
+STC Metro,Camarones,07,03,STC0703,05123,Intermedia,Azcapotzalco,1988
+STC Metro,Refinería,07,04,STC0704,05128,Intermedia,Azcapotzalco,1988
+STC Metro,Tacuba,07,05,STC0705,05132,Transbordo,Miguel Hidalgo,1984
+STC Metro,San Joaquín,07,06,STC0706,05130,Intermedia,Miguel Hidalgo,1984
+STC Metro,Polanco,07,07,STC0707,05127,Intermedia,Miguel Hidalgo,1984
+STC Metro,Auditorio,07,08,STC0708,05121,Intermedia,Miguel Hidalgo,1984
+STC Metro,Constituyentes,07,09,STC0709,05124,Intermedia,Miguel Hidalgo,1985
+STC Metro,Tacubaya,07,10,STC0710,05133,Transbordo,Miguel Hidalgo,1985
+STC Metro,San Pedro de Los Pinos,07,11,STC0711,05131,Intermedia,Benito Juárez,1985
+STC Metro,San Antonio,07,12,STC0712,05129,Intermedia,Benito Juárez,1985
+STC Metro,Mixcoac,07,13,STC0713,05126,Transbordo,Benito Juárez,1985
+STC Metro,Barranca del Muerto,07,14,STC0714,05122,Terminal,Álvaro Obregón,1985
+STC Metro,Garibaldi/Lagunilla,08,01,STC0801,05144,Terminal / Transbordo,Cuauhtémoc,1994
+STC Metro,Bellas Artes,08,02,STC0802,05137,Transbordo,Cuauhtémoc,1994
+STC Metro,San Juan de Letrán,08,03,STC0803,05150,Intermedia,Cuauhtémoc,1994
+STC Metro,Salto del Agua,08,04,STC0804,05149,Transbordo,Cuauhtémoc,1994
+STC Metro,Doctores,08,05,STC0805,05142,Intermedia,Cuauhtémoc,1994
+STC Metro,Obrera,08,06,STC0806,05148,Intermedia,Cuauhtémoc,1994
+STC Metro,Chabacano,08,07,STC0807,05139,Transbordo,Cuauhtémoc,1994
+STC Metro,La Viga,08,08,STC0808,05147,Intermedia,Cuauhtémoc / Venustiano Carranza,1994
+STC Metro,Santa Anita,08,09,STC0809,05151,Transbordo,Iztacalco,1994
+STC Metro,Coyuya,08,10,STC0810,05141,Intermedia,Iztacalco,1994
+STC Metro,Iztacalco,08,11,STC0811,05145,Intermedia,Iztacalco,1994
+STC Metro,Apatlaco,08,12,STC0812,05135,Intermedia,Iztapalapa,1994
+STC Metro,Aculco,08,13,STC0813,05134,Intermedia,Iztapalapa,1994
+STC Metro,Escuadrón 201,08,14,STC0814,05143,Intermedia,Iztapalapa,1994
+STC Metro,Atlalilco,08,15,STC0815,05136,Transbordo,Iztapalapa,1994
+STC Metro,Iztapalapa,08,16,STC0816,05146,Intermedia,Iztapalapa,1994
+STC Metro,Cerro de la Estrella,08,17,STC0817,05138,Intermedia,Iztapalapa,1994
+STC Metro,UAM-I,08,18,STC0818,05152,Intermedia,Iztapalapa,1994
+STC Metro,Constitución de 1917,08,19,STC0819,05140,Terminal,Iztapalapa,1994
+STC Metro,Pantitlán,09,01,STC0901,05160,Terminal / Transbordo,Venustiano Carranza / Iztacalco,1987
+STC Metro,Puebla,09,02,STC0902,05162,Intermedia,Venustiano Carranza / Iztacalco,1987
+STC Metro,Ciudad Deportiva,09,03,STC0903,05156,Intermedia,Venustiano Carranza / Iztacalco,1987
+STC Metro,Velódromo,09,04,STC0904,05164,Intermedia,Venustiano Carranza,1987
+STC Metro,Mixhiuca,09,05,STC0905,05159,Intermedia,Venustiano Carranza,1987
+STC Metro,Jamaica,09,06,STC0906,05157,Transbordo,Venustiano Carranza,1987
+STC Metro,Chabacano,09,07,STC0907,05154,Transbordo,Cuauhtémoc,1987
+STC Metro,Lázaro Cárdenas,09,08,STC0908,05158,Intermedia,Cuauhtémoc,1987
+STC Metro,Centro Médico,09,09,STC0909,05153,Transbordo,Cuauhtémoc,1987
+STC Metro,Chilpancingo,09,10,STC0910,05155,Intermedia,Cuauhtémoc,1988
+STC Metro,Patriotismo,09,11,STC0911,05161,Intermedia,Cuauhtémoc / Miguel Hidalgo,1988
+STC Metro,Tacubaya,09,12,STC0912,05163,Terminal / Transbordo,Miguel Hidalgo,1988
+STC Metro,Tláhuac,12,01,STC1201,05037,Terminal,Tláhuac,2012
+STC Metro,Tlaltenco,12,02,STC1202,05038,Intermedia,Tláhuac,2012
+STC Metro,Zapotitlán,12,03,STC1203,05040,Intermedia,Tláhuac,2012
+STC Metro,Nopalera,12,04,STC1204,05031,Intermedia,Tláhuac,2012
+STC Metro,Olivos,12,05,STC1205,05032,Intermedia,Tláhuac,2012
+STC Metro,Tezonco,12,06,STC1206,05036,Intermedia,Iztapalapa,2012
+STC Metro,Periferico Oriente,12,07,STC1207,05034,Intermedia,Iztapalapa,2012
+STC Metro,Calle 11,12,08,STC1208,05022,Intermedia,Iztapalapa,2012
+STC Metro,Lomas Estrella,12,09,STC1209,05028,Intermedia,Iztapalapa,2012
+STC Metro,San Andres Tomatlán,12,10,STC1210,05035,Intermedia,Iztapalapa,2012
+STC Metro,Culhuacán,12,11,STC1211,05023,Intermedia,Iztapalapa,2012
+STC Metro,Atlalilco,12,12,STC1212,05021,Transbordo,Iztapalapa,2012
+STC Metro,Mexicaltzingo,12,13,STC1213,05029,Intermedia,Iztapalapa / Coyoacán,2012
+STC Metro,Ermita,12,14,STC1214,05025,Transbordo,Benito Juárez,2012
+STC Metro,Eje Central,12,15,STC1215,05024,Intermedia,Benito Juárez,2012
+STC Metro,Parque de los Venados,12,16,STC1216,05033,Intermedia,Benito Juárez,2012
+STC Metro,Zapata,12,17,STC1217,05039,Transbordo,Benito Juárez,2012
+STC Metro,Hospital 20 de Noviembre,12,18,STC1218,05026,Intermedia,Benito Juárez,2012
+STC Metro,Insurgentes Sur,12,19,STC1219,05027,Intermedia,Benito Juárez,2012
+STC Metro,Mixcoac,12,20,STC1220,05030,Terminal / Transbordo,Benito Juárez,2012
+STC Metro,Pantitlán,A,01,STCLA01,05171,Terminal / Transbordo,Iztacalco,1991
+STC Metro,Agrícola Oriental,A,02,STCLA02,05166,Intermedia,Iztacalco,1991
+STC Metro,Canal de San Juan,A,03,STCLA03,05167,Intermedia,Iztacalco,1991
+STC Metro,Tepalcates,A,04,STCLA04,05174,Intermedia,Iztapalapa,1991
+STC Metro,Guelatao,A,05,STCLA05,05168,Intermedia,Iztapalapa,1991
+STC Metro,Peñón Viejo,A,06,STCLA06,05172,Intermedia,Iztapalapa,1991
+STC Metro,Acatitla,A,07,STCLA07,05165,Intermedia,Iztapalapa,1991
+STC Metro,Santa Marta,A,08,STCLA08,05173,Intermedia,Iztapalapa,1991
+STC Metro,Los Reyes,A,09,STCLA09,05170,Intermedia,Estado de México - La Paz,1991
+STC Metro,La Paz,A,10,STCLA10,05169,Terminal,Estado de México - La Paz,1991
+STC Metro,Buenavista,B,01,STCLB01,05176,Terminal,Cuauhtémoc,1999
+STC Metro,Guerrero,B,02,STCLB02,05181,Transbordo,Cuauhtémoc,1999
+STC Metro,Garibaldi/Lagunilla,B,03,STCLB03,05180,Transbordo,Cuauhtémoc,1999
+STC Metro,Lagunilla,B,04,STCLB04,05183,Intermedia,Cuauhtémoc,1999
+STC Metro,Tepito,B,05,STCLB05,05194,Intermedia,Cuauhtémoc,1999
+STC Metro,Morelos,B,06,STCLB06,05184,Transbordo,Venustiano Carranza,1999
+STC Metro,San Lázaro,B,07,STCLB07,05193,Transbordo,Venustiano Carranza,1999
+STC Metro,Ricardo Flores Magón,B,08,STCLB08,05190,Intermedia,Venustiano Carranza,1999
+STC Metro,Romero Rubio,B,09,STCLB09,05192,Intermedia,Venustiano Carranza,1999
+STC Metro,Oceanía,B,10,STCLB10,05187,Transbordo,Gustavo A. Madero / Venustiano Carranza,1999
+STC Metro,Deportivo Oceanía,B,11,STCLB11,05178,Intermedia,Gustavo A. Madero,1999
+STC Metro,Bosque de Aragón,B,12,STCLB12,05175,Intermedia,Gustavo A. Madero,1999
+STC Metro,Villa de Aragón,B,13,STCLB13,05195,Intermedia,Gustavo A. Madero,1999
+STC Metro,Nezahualcóyotl,B,14,STCLB14,05186,Intermedia,Estado de México - Nezahualcóyotl,2000
+STC Metro,Impulsora,B,15,STCLB15,05182,Intermedia,Estado de México - Nezahualcóyotl,2000
+STC Metro,Río de los Remedios,B,16,STCLB16,05191,Intermedia,Estado de México - Nezahualcóyotl,2000
+STC Metro,Múzquiz,B,17,STCLB17,05185,Intermedia,Estado de México - Ecatepec,2000
+STC Metro,Ecatepec,B,18,STCLB18,05179,Intermedia,Estado de México - Ecatepec,2000
+STC Metro,Olímpica,B,19,STCLB19,05188,Intermedia,Estado de México - Ecatepec,2000
+STC Metro,Plaza Aragón,B,20,STCLB20,05189,Intermedia,Estado de México - Ecatepec,2000
+STC Metro,Ciudad Azteca,B,21,STCLB21,05177,Terminal,Estado de México - Ecatepec,2000
