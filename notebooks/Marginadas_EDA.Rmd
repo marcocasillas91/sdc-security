@@ -1,0 +1,90 @@
+---
+title: "Exploratory Data Analysis: EDA"
+output:  rmarkdown::github_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r}
+
+instalar <- function(paquete) {
+
+    if (!require(paquete,character.only = TRUE, quietly = TRUE, warn.conflicts = FALSE)) {
+        install.packages(as.character(paquete), dependecies = TRUE, repos = "http://cran.us.r-project.org")
+        library(paquete, character.only = TRUE, quietly = TRUE, warn.conflicts = FALSE)
+    }
+}
+
+
+paquetes <- c('ggplot2', 'dplyr', 'jsonlite', 'sf', 'rgdal')
+
+lapply(paquetes, instalar);
+
+```
+
+# dataset: grado-de-marginalidad-y-violencia-urbana-por-colonia-en-la-ciudad-de-mxico
+
+## Identificadores y tipos de variables según el diccionario de datos
+
+Identificador asignado de forma aleatoria       -- Número entero 
+Clave de Entidad       -- Número entero 
+Nombre de la Alcaldía                 -- Alfanumérico 
+Clave de Colonia    -- Número entero 
+Nombre de la Colonia            -- Alfanumérico 
+Poblaci�n 2010                                  --Número entero
+Marginalidad y violencia urbana         --Número entero 
+
+\*Geoestad�sticas Estatales, de acuerdo al Marco Geoestad�stico Nacional
+para la Ciudad de M�xico
+
+```{r}
+library(jsonlite)
+library(dplyr)
+d<-fromJSON("data/Criminalidad/grado-de-marginalidad-y-violencia-urbana-por-colonia-en-la-ciudad-de-mxico.json")
+glimpse(d)
+```
+
+Queremos ver en un mapa de la Ciudad de México las colonias con el grado
+de marginalidad que presentan y en dónde están concentradas por zona
+
+```{r}
+library(sf)
+library(rgdal)
+my_spdf <- readOGR( 
+  dsn= paste0(getwd(),"/data/Criminalidad/urbanismo/") , 
+  layer="urbanismo_social_sintesis",
+  verbose=FALSE
+)
+par(mar=c(0,0,0,0))
+plot(my_spdf, col="#f2f2f2", bg="skyblue", lwd=0.25, border=0 )
+```
+
+```{r}
+# 'fortify' the data to get a dataframe format required by ggplot2
+
+spdf_fortified <- st_as_sf(my_spdf, region = "CDMX")
+
+library(ggplot2)
+
+
+g_wells <- ggplot(data = spdf_fortified) +
+    geom_sf(aes(color = C_US), size = 2)
+
+g_wells
+  # ggplot() +
+  # geom_polygon(data = spdf_fortified, aes( x = long, y = lat, group = group), fill="#69b3a2", color="white") +
+  # theme_void() 
+```
+
+Inspeccionamos la distribución de colonias por nivel de marginalidad
+
+5 (Muy alta) a 1 (Muy baja)
+
+```{r}
+library(ggplot2)
+ggplot(spdf_fortified, aes(C_US)) +
+    geom_bar() +
+    ylab("") + xlab("Marginalidad")
+```
+
