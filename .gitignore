@@ -1,3 +1,8 @@
 #jupyer lab workspaces
 .jupyter
 .ipynb_checkpoints
+
+#dataset files
+crimes.csv
+consolidated.csv
+homologated.csv
