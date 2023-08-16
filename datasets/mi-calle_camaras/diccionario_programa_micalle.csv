@@ -1,23 +1,3 @@
-"Nombre de la base y/o conjunto de datos 
-(Repetir el nombre en todas las filas)",Nombre del campo o variable (atributo),Descripción del campo o variable (atributo),"Rango, código válido o valores permitidos","Especificación del campo
-
-
-
-
-(Opcional, solo si aplica)"
-Programa Mi Calle,Alcaldia,Nombre de la Alcaldía.,Texto,Una versión pública de las alcaldías y sus delimitaciiones geográficas puede ser consultada en esta liga https://datos.cdmx.gob.mx/explore/dataset/limite-de-las-alcaldias/table/
-Programa Mi Calle,Colonia,Nombre de la Colonia.,Texto,Una versión pública de las colonias y sus delimitaciiones geográficas puede ser consultada en esta liga https://datos.cdmx.gob.mx/explore/dataset/coloniascdmx/table/
-Programa Mi Calle,Barrio Seguro Proyectadas,Número de cámaras proyectadas a ser instaladas correspondientes al programa Barrio Seguro.,0-99999,"Mi Barrio Seguro: Eje de acción del programa Mi C911e que considera el análisis a nivel colonia de los reportes ciudadanos captados por delitos, emergencias, urgencias médicas, faltas cívicas y servicios, que fueron atendidos por los cinco C2 y el C5 de la Ciudad de México, durante el 2018 y de enero a agosto de 2019, en zonas sin cobertura actual de las cámaras a cargo del Centro."
-Programa Mi Calle,Cruces Seguros Proyectadas,Número de cámaras proyectadas a ser instaladas correspondientes al programa Cruces Seguros.,0-99999,"Mi Crucero Seguro: Eje de acción del programa Mi C911e basado en la identificación de los cruceros viales más significativos, con alta concentración de incidentes y sin cobertura con las  cámaras del C5."
-Programa Mi Calle,Sendero Seguro Proyectadas,Número de cámaras proyectadas a ser instaladas correspondientes al programa Senderos Seguros.,0-99999,"Senderos Seguros: Eje de acción del programa Mi C911e que surge como parte del plan de acciones inmediatas de atención a la violencia contra las mujeres, denominado “Camina libre, camina segura” instrumentado por la Jefatura de Gobierno, para reforzar la cobertura de las cámaras existentes en 44 tramos del programa, se consideró la infraestructura vial, equipamiento e instalaciones estratégicas, así como el tránsito vehicular y peatonal."
-Programa Mi Calle,Unidad Habitacional Proyectadas,Número de cámaras proyectadas a ser instaladas correspondientes a Unidades Habitacionales.,0-99999,Unidad habitacional: Eje de acción del programa Mi C911e basado en la identificación de aquellas unidades habitacionales abiertas donde se identificó alta concentración de reportes de incidencia delictiva y escasa cobertura con las  cámaras del C5.
-Programa Mi Calle,Total Proyectadas,Total de cámaras proyectadas a ser instaladas.,0-99999,NA
-Programa Mi Calle,Barrio Seguro Instaladas,Número de cámaras instaladas correspondientes al programa Barrio Seguro.,0-99999,NA
-Programa Mi Calle,Cruces Seguros Instaladas,Número de cámaras instaladas correspondientes al programa Cruces Seguros.,0-99999,NA
-Programa Mi Calle,Senderos Seguros Instalados,Número de cámaras instaladas correspondientes al programa Senderos Seguros.,0-99999,NA
-Programa Mi Calle,Unidad Habitacional Instalados,Número de cámaras instaladas en Unidades Habitacionales.,0-99999,NA
-Programa Mi Calle,Total Instalados,Total de cámaras instaladas.,0-99999,NA
-Programa Mi Calle,Porcentaje de Avance,Cociente de la división de total de cámaras proyectadas a ser installadas entre cámaras instaladas.,0-100,NA
-Programa Mi Calle,Colonias Incluidas,Variable dicotómica que indica si la colonia pertenece o no al Programa de Colonias Prioritarias.,Si-No,NA
-Programa Mi Calle,Polígono,Representación geoespacial que muestra los límites de la colonia.,Vector geográfico tipo polígono.,NA
-Programa Mi Calle,Geo_point_2d,Centroide del polígono correspondiente a los límites de la colonia.,Vector geográfico tipo polígono. Muestra la latitud y la longitud del centroíde de la colonia.,Este punto se genera automáticamente para poder visualizar una representación geoespacial.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f3ee089da868d6aefcd4e6ead0f209a72545d960ba5f06c336b002c8386207
+size 4045
