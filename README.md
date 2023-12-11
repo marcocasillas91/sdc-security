@@ -20,4 +20,4 @@ main roads, patrol areas, metro stations and system video surveillance cameras
 C5 using the geolocation software QGIS. The following image shows a combination of
 layers with this information.
 
-![alt text](https://github.com/marcocasillas91/sdc-security/blob/md_file_results/images/cams_metro_patrullaje.png?raw=true)
+![cams_metro_patrullaje](https://github.com/marcocasillas91/sdc-security/assets/29104670/cbbe27c1-f39d-4de5-88c3-362615accd8d)
